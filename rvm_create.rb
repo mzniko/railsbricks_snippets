@@ -4,6 +4,7 @@
 # TODO?: Does not check for RVM installation,
 #       Should check to see if user wants documentation,
 #       Rails version not specified
+#       Script should check Ruby version specified is installed
 # Usage: $rvm_create 1.9.3 newproject 
 
 raise "Not enough arguments." unless ARGV.length == 2
