@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # Creates an rvm gemset w/ rails using supplied arguments
 # TODO?: Does not check for RVM installation,
 #       Should check to see if user wants documentation,
